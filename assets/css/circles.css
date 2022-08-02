@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(200, 222, 233);
+}
+.main{
+    margin-left:300px ;
+    margin-top: 190px;
+ }
+
+.blue{
+   width: 290px;
+   height: 290px;
+    border-radius: 50%;
+    border: 5px solid #74aaf7;
+    position: absolute;
+    z-index: 1;
+
+
+}
+.black{
+
+    width: 290px;
+   height: 290px;
+    margin-left: 320px;
+    border-radius: 50%;
+    border: 5px solid #090909;
+    position: absolute;
+    z-index: 4;
+}
+.red{
+     
+    width: 290px;
+    height: 290px;
+    margin-left: 640px;
+    border-radius: 50%;
+    border: 5px solid red;
+    position: absolute;
+    z-index: 1;
+}
+
+.orange{
+    
+    width: 290px;
+    height: 290px;
+    margin-right: 670px;
+    margin-left: 160px;
+    margin-top: 210px;
+    border-radius: 50%;
+    border: 5px solid orange;
+    position: absolute;
+    z-index: 2;
+    
+}
+.green{
+     
+    width: 290px;
+    height: 290px;
+    margin-left: 485px;
+    margin-top: 210px;
+    border-radius: 50%;
+    border: 5px solid green;
+    position: absolute;
+    z-index: 3;
+}
